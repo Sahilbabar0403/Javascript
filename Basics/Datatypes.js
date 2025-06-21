@@ -1,0 +1,11 @@
+/* Types of datatypes
+Let
+Null
+undefined
+Boolean
+String
+Integer
+Object
+Symbol
+Bigint
+*/
